@@ -7,7 +7,7 @@ Recipe Finder is a comprehensive web application designed to help users discover
 - **Deployed Site:** [Recipe Finder](https://recipes.niyai.tech)
 - **Final Project Blog Article:** [Recipe Finder Blog](https://www.medium.com/recipefinder)
 - **Author's LinkedIn:**
-  - [Your Name](https://www.linkedin.com/in/yourname)
+  - [Your Name](https://www.linkedin.com/in/Niyai)
 
 ## Installation
 
@@ -15,7 +15,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/recipe-finder.git
+    git clone https://github.com/Niyai/Recipe_App.git
     ```
 2. Navigate to the project directory:
     ```sh
